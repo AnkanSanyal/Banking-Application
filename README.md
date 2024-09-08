@@ -15,7 +15,7 @@ A simple banking application built using Java, Spring Boot, Hibernate, and Postg
 
 4.API Endpoints
 
-5.Technologies Used
+5.Tech Stack
 
 6.Testing
 
